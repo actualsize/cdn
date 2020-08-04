@@ -1,0 +1,8 @@
+{
+  "name": "cdn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://j0hnm4r5@github.com/actualsize/cdn.git",
+  "author": "John Mars <john@actualsize.com>",
+  "license": "MIT"
+}
